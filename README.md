@@ -39,3 +39,23 @@ Then visit `http://127.0.0.1:5000` in your browser.
 
 Created and maintained by Nora  
 Contact: meme.265833@example.com
+
+---
+
+### 📸 Screenshots
+
+#### Home / Message Board  
+![Home](./screenshots/home.png)
+
+#### Login  
+![Login](./screenshots/login.png)
+
+#### Register  
+![Register](./screenshots/register.png)
+
+#### User Profile  
+![Profile](./screenshots/profile.png)
+
+
+
+
