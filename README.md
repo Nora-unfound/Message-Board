@@ -1,6 +1,6 @@
 # Message Board
 
-Message Board is a clean and functional web application built with Flask. It allows users to register, log in, post messages, and manage their personal information. The app is designed with consistency and simplicity in mind.
+Message Board is a web application built with Flask. It allows users to register, log in, post messages, and manage their personal information. 
 
 ---
 
