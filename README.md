@@ -19,7 +19,7 @@ Then visit `http://127.0.0.1:5000` in your browser.
 
 ---
 
-## 📦 Deployment (Render)
+### 📦 Deployment (Render)
 
 1. Push this project to GitHub
 2. Go to [https://render.com](https://render.com) and log in
